@@ -1,0 +1,9 @@
+
+e
+java:S1128"CRemove this unused import 'org.apache.tomcat.util.json.JSONParser'.(ö½¥¨ùÿÿÿÿ8¢°ä/
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ÉÒ²ä/
+j
+java:S1192g"HDefine a constant instead of duplicating this literal "message" 3 times.(«İäÆÿÿÿÿÿ8ı´²•/
+V
+java:S4684t"@Replace this persistent entity with a simple POJO or DTO object.(áÓåâ

@@ -1,0 +1,19 @@
+
+J	java:S108E")Either remove or fill this block of code.(é‡ˆÊüÿÿÿÿ8Ï’¨/
+j
+java:S1192a"HDefine a constant instead of duplicating this literal "message" 3 times.(«İäÆÿÿÿÿÿ8×œ¡½/
+l
+java:S1128	"PRemove this unused import 'com.edu.hutech.repositories.TraineeCourseRepository'.(½©$8æŸÛÜ/
+e
+java:S1128"HRemove this unused import 'com.edu.hutech.services.core.TraineeService'.(â¿ï¼8âú•À/
+f
+java:S3358="DExtract this nested ternary operation into an independent statement.(¬©¿âıÿÿÿÿ8Ï’¨/
+^	java:S125­"<This block of commented-out lines of code should be removed.(Ğöç”şÿÿÿÿ8ö×¢Ü/
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(“¾Ì8ö×¢Ü/
+]	java:S125}"<This block of commented-out lines of code should be removed.(–ë—İøÿÿÿÿ8Ï’¨/
+]
+java:S4684n"@Replace this persistent entity with a simple POJO or DTO object.(ÿõéª8øû±½/
+_
+java:S1128"BRemove this unused import 'com.edu.hutech.entities.TraineeCourse'.(¨ˆı¡8¼‹İÜ/
+:
+java:S1116¬"Remove this empty statement.(›·ñá8¼‹İÜ/

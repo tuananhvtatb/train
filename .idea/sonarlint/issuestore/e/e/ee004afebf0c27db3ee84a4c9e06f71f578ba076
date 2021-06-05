@@ -1,0 +1,19 @@
+
+E
+java:S14817"/Remove this unused "dateFormat" local variable.(ûú»ú
+V	java:S1258"<This block of commented-out lines of code should be removed.(èôÜàıÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(ÿÌ±×üÿÿÿÿ
+`
+java:S11921"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(Ñ½øH
+q
+java:S2159C"VRemove this call to "equals"; comparisons between unrelated types always return false.(¡¢ÇÉüÿÿÿÿ
+q
+java:S2159E"VRemove this call to "equals"; comparisons between unrelated types always return false.(Âš³åüÿÿÿÿ
+]	java:S125e"<This block of commented-out lines of code should be removed.(ÆÊ˜Âùÿÿÿÿ8 …¨¼/
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ê›Á
+D
+java:S1481U".Remove this unused "dateStart" local variable.(Áå¿
+G
+java:S1481V",Remove this unused "dateEnd" local variable.(‚›ğ×ùÿÿÿÿ
+?
+java:S14816")Remove this unused "date" local variable.(Î‡ùş

@@ -1,0 +1,28 @@
+
+]
+java:S1128";Remove this unused import 'com.edu.hutech.dtos.TrainerDto'.(äÅÕûÿÿÿÿ8ü¥£§/
+g
+java:S1128"ERemove this unused import 'com.edu.hutech.utils.excel.ExcelExporter'.(ğÏúÿÿÿÿ8ü¥£§/
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ü¥£§/
+g
+java:S1128"JRemove this unused import 'com.edu.hutech.repositories.TraineeRepository'.(§¨„ê8ü¥£§/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ü¥£§/
+]
+java:S4684y"@Replace this persistent entity with a simple POJO or DTO object.(¦‰Ïø8ü¥£§/
+]
+java:S1128";Remove this unused import 'com.edu.hutech.entities.Course'.(„´öÙùÿÿÿÿ8ü¥£§/
+`
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8ü¥£§/
+k
+java:S1128"IRemove this unused import 'com.edu.hutech.repositories.CourseRepository'.(€Ûùšøÿÿÿÿ8ü¥£§/
+J	java:S108L")Either remove or fill this block of code.(é‡ˆÊüÿÿÿÿ8ü¥£§/
+j
+java:S1192l"HDefine a constant instead of duplicating this literal "message" 3 times.(«İäÆÿÿÿÿÿ8ü¥£§/
+`
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(Å®ìßúÿÿÿÿ8Çã€½/
+[
+java:S1128	"9Remove this unused import 'com.edu.hutech.entities.Role'.(ÀÇÓûÿÿÿÿ8ÕÀö§/
+f
+java:S3358@"DExtract this nested ternary operation into an independent statement.(¬©¿âıÿÿÿÿ8ü¥£§/
