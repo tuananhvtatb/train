@@ -149,6 +149,7 @@ ClassController {
 
 
         Course courseInDB = courseService.findById(json.getInt("classId"));
+
         TraineeCourse traineeCourse = new TraineeCourse();
 
 
